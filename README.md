@@ -7,7 +7,7 @@ It was built based on the dump of 2021-11-21 17:50:44.
 This antonym resource can be used for antithesis detection in the German language.
 For more information, please see:
 
-*Ramona Kühn, Jelena Mitrović, and Michael Granitzer. "Hidden in Plain Sight: Resources and Methods for Detecting German Antitheses in Telegram". (2022, unpublished).*
+**Ramona Kühn, Jelena Mitrović, and Michael Granitzer. "Hidden in Plain Sight: Resources and Methods for Detecting German Antitheses in Telegram". (2022, unpublished).**
 
 # Usage
 To load the Dictionary and to work with, you can use following code:
