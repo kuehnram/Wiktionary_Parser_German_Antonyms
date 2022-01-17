@@ -1,4 +1,4 @@
-# German_Antonyms
+# German Antonyms
 This repository offers a Python Dictionary of German words and their antonyms from the German Wiktionary.
 It was built based on the dump of 2021-11-21 17:50:44.
 
