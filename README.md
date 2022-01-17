@@ -18,3 +18,6 @@ with open("AntonymDict.txt", mode="r", encoding="utf-8") as f:
 antonym_dict = ast.literal_eval(antonym_file)
 
 ```
+
+# Wiktionary Parser
+Please go to https://github.com/kuehnram/Antithesis_Detection/tree/main/WiktionaryParser to download the parser that created this antonym resource.
