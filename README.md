@@ -1,6 +1,17 @@
 # Wiktionary Parser to Extract German Antonyms
 This repository offers a Python Dictionary of German words and their antonyms from the German Wiktionary.
 It was built based on the Wiktionary dump of 2021-11-21 17:50:44.
+If used, please cite
+
+```
+@inproceedings{kuehn2023hidden,
+  title={Hidden in Plain Sight: Can German Wiktionary and Wordnets Facilitate the Detection of Antithesis?},
+  author={K{\"u}hn, Ramona and Mitrovic, Jelena and Granitzer, Michael},
+  booktitle={12th International Global Wordnet Conference},
+  year={2023}
+}
+```
+
 
 ## Applications and Usage
 This antonym resource can be used to find antonyms or for antithesis detection in the German language.
