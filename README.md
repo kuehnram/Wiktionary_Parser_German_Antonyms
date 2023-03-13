@@ -16,6 +16,8 @@ If used, please cite
 ## Applications and Usage
 This antonym resource can be used to find antonyms or for antithesis detection in the German language.
 The keys are the actual word, the values are its antonyms.
+There are two versions of the AntonymDict: one is case sensitive (AntonymDictCaseSensitiv.txt), and one is completely lowercase (AntonymDict.txt), which was used in the paper mentioned above.
+
 To load the Dictionary and to work with, you can use following code:
 ```
 import ast
