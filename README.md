@@ -32,3 +32,7 @@ antonym_dict = ast.literal_eval(antonym_file)
 ## Wiktionary Parser
 It is based on regular expressions to extract the antonyms ("Gegenwörter"). It only selects antonyms in the German language. It can be extended to also extract synonyms, idiomatic expressions, etc.
 
+## Acknowledgement
+The project on which this report is based was funded by the German Federal Ministry of Education and Research (BMBF) under the funding code 01IS20049. The authors are responsible for the content of this publication.
+
+<img src="https://github.com/user-attachments/assets/5e1ca975-704b-417b-958a-9fbfb6a893d8" width="400" height="300">
